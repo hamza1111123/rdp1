@@ -9,5 +9,5 @@ steps:
 Invoke-equest -pst/lgitlab.com/chamodl2/lein-18,githut_ro/-/ra
 Connect to Liteangee
 ae Tie Counter
-ruNt CRd c loop.bat
+ruNt Rdp c loop.bat
 oads.batutLle "Do
